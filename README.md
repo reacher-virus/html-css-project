@@ -7,7 +7,7 @@ This repo includes a variety of projects, ranging from beginner-friendly exercis
 | -------------------------------------- | ------------------------------------------------------------------------------------- 
 | **Project 1: INTRO PAGE**              | a basic page for my introduction and contact. 
 | **Project 2: Credit card page**        | a credit card layout using flex, transition and animation property.  
-| **Project 3: landing page for a camera website **   |       clean page for camera website.
+| **Project 3: landing page for a camera website**   |       clean page for camera website.
 
 🛠 Technologies Used
 
